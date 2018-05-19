@@ -57,6 +57,10 @@ Plug 'neovimhaskell/haskell-vim', { 'for': 'haskell' }
 Plug 'Twinside/vim-hoogle', { 'for': 'haskell' }
 Plug 'pbrisbin/vim-syntax-shakespeare'
 
+" Elm
+"
+Plug 'elmcast/elm-vim'
+
 " Javascript
 Plug 'elzr/vim-json'
 Plug 'moll/vim-node', { 'for': 'javascript' }
