@@ -72,6 +72,9 @@ Plug 'chriskempson/vim-tomorrow-theme'
 Plug 'pbrisbin/vim-colors-off'
 Plug 'owickstrom/vim-colors-paramount'
 
+" Folder
+Plug 'scrooloose/nerdtree'
+
 for fpath in split(globpath('~/Projects/vim', '*'), '\n')
   Plug fpath
 endfor
